@@ -1,54 +1,50 @@
-# React + TypeScript + Vite
+## Ollivve-Cart
+A modern, responsive eCommerce web application built with React, Vite, TypeScript, Tailwind CSS, and ShadCN UI.
+It simulates a full-featured online store with product browsing, a cart system, user authentication, and product detail popups.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- ShadCN UI 
+- Lucide Icons
+- React Router
 
-Currently, two official plugins are available:
+## Features
+- Homepage
+- Product listing
+- Product detail popup
+- Cart Management
+- Authentication/ User Login
+- Responsive design for mobile/PC
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+To run this project locally,
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies:npm install (or) npm i
+4. Run the development server:npm run dev
+5. Open http://localhost:3000 in your browser to view the website.
 
-## Expanding the ESLint configuration
+## License
+This project is licensed under [MIT License](LICENSE).
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Personal Notes
+This project was created as part of my journey in full-stack development. It's not a live e-commerce site, but it's structured to demonstrate UI/UX best practices, modern tooling, and state management.
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## Sample Screenshots
+![image](https://github.com/user-attachments/assets/e3d9058c-4b82-403d-8985-359aa2b04fe0)
+![image](https://github.com/user-attachments/assets/b3f403ff-9e08-489a-a082-c7f2cb895c30)
+![image](https://github.com/user-attachments/assets/f2219fdc-7d52-4aaf-9857-1c498bd7dbd4)
+![image](https://github.com/user-attachments/assets/25efd112-6ac2-4a5f-ab78-fb849f14d2aa)
+![image](https://github.com/user-attachments/assets/ad42d62e-a1e1-419a-9ac3-3004a30264d2)
+![image](https://github.com/user-attachments/assets/fa9c0e19-483b-4bb2-a306-0ab284064126)
+![image](https://github.com/user-attachments/assets/2132545e-46fb-462c-bca0-70c1f261ce0a)
+![image](https://github.com/user-attachments/assets/4e8f12b1-186c-4c46-b691-f1bd6ca42b37)
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+
+
