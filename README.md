@@ -35,11 +35,21 @@ This project is licensed under [MIT License](LICENSE).
 This project was created as part of my journey in full-stack development. It's not a live e-commerce site, but it's structured to demonstrate UI/UX best practices, modern tooling, and state management.
 
 ## Sample Screenshots
-![image](https://github.com/user-attachments/assets/e3d9058c-4b82-403d-8985-359aa2b04fe0)
-![image](https://github.com/user-attachments/assets/b3f403ff-9e08-489a-a082-c7f2cb895c30)
-![image](https://github.com/user-attachments/assets/f2219fdc-7d52-4aaf-9857-1c498bd7dbd4)
-![image](https://github.com/user-attachments/assets/25efd112-6ac2-4a5f-ab78-fb849f14d2aa)
-![image](https://github.com/user-attachments/assets/ad42d62e-a1e1-419a-9ac3-3004a30264d2)
-![image](https://github.com/user-attachments/assets/fa9c0e19-483b-4bb2-a306-0ab284064126)
-![image](https://github.com/user-attachments/assets/2132545e-46fb-462c-bca0-70c1f261ce0a)
-![image](https://github.com/user-attachments/assets/4e8f12b1-186c-4c46-b691-f1bd6ca42b37)
+![image](https://github.com/user-attachments/assets/fd942672-fb00-45ee-95c5-7470057ccc18)
+![image](https://github.com/user-attachments/assets/f83ce80b-0522-48f8-96d0-cc1eaa523aa4)
+![image](https://github.com/user-attachments/assets/4f983168-1d57-46a0-9bcb-efadc7176990)
+![image](https://github.com/user-attachments/assets/ba290233-1484-47e2-9c18-8b432e456be5)
+![image](https://github.com/user-attachments/assets/a0efa734-4cd3-4d98-b3a3-c3944c9c0308)
+![image](https://github.com/user-attachments/assets/489b7fed-aee8-4149-99ab-bd5757e3c00d)
+![image](https://github.com/user-attachments/assets/a59b3833-3f56-449d-9ef4-5a1e302d00ca)
+![image](https://github.com/user-attachments/assets/ab749803-e5e0-4096-bdab-9ebf4daba878)
+
+![image](https://github.com/user-attachments/assets/6941aa46-313e-4232-bc54-97078c5f2eeb)
+![image](https://github.com/user-attachments/assets/09bfefec-ec53-43d8-b666-78aca1a6797b)
+![image](https://github.com/user-attachments/assets/bb9b1434-8444-4e42-90ca-7aa7b9bf371b)
+
+
+
+
+
+
